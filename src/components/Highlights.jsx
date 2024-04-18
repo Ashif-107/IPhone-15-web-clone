@@ -15,9 +15,9 @@ const Highlights = () => {
 
     useGSAP(() => {
         
-        gsap.to(".link1", { opacity: 1, y: 0,delay:0.4, scrollTrigger: { trigger: ".link1" } })
-        gsap.to(".link2", { opacity: 1, y: 0,delay:0.7, scrollTrigger: { trigger: ".link2" } })
-        gsap.to("#title", { opacity: 1, y: 0,delay:0.2, scrollTrigger: { trigger: "#title" } })
+        gsap.to(".link1", { opacity: 1, y: 0,delay:0.4, scrollTrigger: { trigger: ".link1", toggleActions: 'restart reverse restart reverse'} })
+        gsap.to(".link2", { opacity: 1, y: 0,delay:0.7, scrollTrigger: { trigger: ".link2" , toggleActions: 'restart reverse restart reverse'} })
+        gsap.to("#title", { opacity: 1, y: 0,delay:0.2, scrollTrigger: { trigger: "#title", toggleActions: 'restart reverse restart reverse' } })
 
 
 
