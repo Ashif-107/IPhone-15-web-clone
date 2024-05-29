@@ -19,7 +19,10 @@ Welcome to the iPhone 15 Website Clone repository! This project is an exact repl
 #A sample video
 
 
+https://github.com/Ashif-107/IPhone-15-web-clone/assets/144139175/f1669ca1-7ad5-41e4-9c41-4f82a23d8a97
 
-Uploading Iphone 15 Pro - Google Chrome 2024-05-27 11-35-08.mp4…
+
+
+
 
 
